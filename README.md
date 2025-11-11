@@ -19,18 +19,43 @@ Sementara itu, class Karyawan bertugas mengelola data pegawai restoran, seperti 
 https://github.com/user-attachments/assets/75ef3a7f-dbc7-4420-8462-28812681a612
 
 
+
+
+
+
+
+
 https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
+
+
+
+
+
+
+
+
 
 
 
 **Pesanan**
 <img width="1854" height="881" alt="AddPesanan" src="https://github.com/user-attachments/assets/d8a0ac36-8d38-403c-86b5-a8e64da58236" />
----
+
+
+
+
+
+
 
 
 
 
 <img width="1892" height="878" alt="BeforeUpdatePesanan" src="https://github.com/user-attachments/assets/5debd4f2-216e-4bd0-8690-fcfcd79a506b" />
+
+
+
+
+
+
 
 
 
@@ -41,7 +66,18 @@ https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
 
 
 
+
+
+
+
 <img width="1893" height="925" alt="DeletePesanan" src="https://github.com/user-attachments/assets/462cfaf8-9abb-4c25-af4d-bb263f7797fb" />
+
+
+
+
+
+
+
 
 
 **Karyawan**
@@ -50,11 +86,25 @@ https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
 
 
 
+
+
+
+
+
 <img width="1888" height="569" alt="AfterAddKaryawan" src="https://github.com/user-attachments/assets/e3cd83b1-3dbc-4bc8-970e-d2ac3ad32b26" />
 
 
 
+
+
+
+
 <img width="1885" height="585" alt="BeforeEditKaryawan" src="https://github.com/user-attachments/assets/94d49b35-27eb-44e6-be8e-e2cfbb0b3a05" />
+
+
+
+
+
 
 
 <img width="1894" height="929" alt="BeforeDeleteKaryawan" src="https://github.com/user-attachments/assets/df47cd3c-67f0-4db2-af1a-bfc711b4281c" />
