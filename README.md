@@ -32,6 +32,12 @@ https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
 
 
 
+##
+
+![DeleteMenu](https://github.com/user-attachments/assets/274ef013-758d-482e-b0c1-46baa2aa5c3b)
+
+
+
 
 
 ##
@@ -41,6 +47,8 @@ https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
 
 
 **Pesanan**
+##
+Add Pesanan
 <img width="1854" height="881" alt="AddPesanan" src="https://github.com/user-attachments/assets/d8a0ac36-8d38-403c-86b5-a8e64da58236" />
 
 
@@ -61,7 +69,7 @@ https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
 
 ##
 
-
+Update Pesanan
 
 <img width="1896" height="580" alt="AfterUpdatePesanan" src="https://github.com/user-attachments/assets/2c469e40-003b-47f9-88b5-44bb78de12a8" />
 
@@ -72,7 +80,7 @@ https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
 
 ##
 
-
+Delete Pesanan
 <img width="1893" height="925" alt="DeletePesanan" src="https://github.com/user-attachments/assets/462cfaf8-9abb-4c25-af4d-bb263f7797fb" />
 
 
@@ -84,6 +92,8 @@ https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
 
 
 **Karyawan**
+##
+Add Karyawan
 
 <img width="1880" height="875" alt="BeforeAddKaryawan" src="https://github.com/user-attachments/assets/1cec1fe4-429c-4a89-9401-40f23a7eb3c7" />
 
@@ -101,7 +111,7 @@ https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
 
 ##
 
-
+Update Karyawan
 <img width="1885" height="585" alt="BeforeEditKaryawan" src="https://github.com/user-attachments/assets/94d49b35-27eb-44e6-be8e-e2cfbb0b3a05" />
 
 
@@ -109,7 +119,7 @@ https://github.com/user-attachments/assets/89ad8509-78ba-41d6-9223-196f97ab9f59
 ##
 
 
-
+Delete Karyawan
 <img width="1894" height="929" alt="BeforeDeleteKaryawan" src="https://github.com/user-attachments/assets/df47cd3c-67f0-4db2-af1a-bfc711b4281c" />
 
 
