@@ -13,19 +13,6 @@ https://github.com/user-attachments/assets/b9630c51-6036-403f-8526-d6a7fcdb1795
 
 **Update Menu**
 
-Uploading UpdateMenu.mp4…
-
-**Delete Menu**
-![DeleteMenu](https://github.com/user-attachments/assets/0358d518-3429-4e20-8d81-a7ed82c1b28f)
-
-**Add Pesanan**
-
-Uploading AddPesanan.mp4…
-
-**Update Pesanan**
+https://github.com/user-attachments/assets/75bdcbcb-df4c-4bde-86c9-64e47bfbe35c
 
 
-Uploading UpdatePesanan.mp4…
-
-**Delete Pesanan**
-![Uploading DeletePesanan.png…]()
