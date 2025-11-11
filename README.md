@@ -7,6 +7,11 @@ Saya Firda Ridzki Utami dengan Nim 2401626 mengerjakan TP7 dalam praktikum mata 
 
 ## Alur Kode Program
 ## Dokumentasi
+
+
+https://github.com/user-attachments/assets/b9630c51-6036-403f-8526-d6a7fcdb1795
+
+
 **Add Menu**
 ![AddMenu](https://github.com/user-attachments/assets/a39d0650-1726-4d8b-8c2e-20e95e6b421a)
 
@@ -25,7 +30,7 @@ Saya Firda Ridzki Utami dengan Nim 2401626 mengerjakan TP7 dalam praktikum mata 
 ![DeleteMenu](https://github.com/user-attachments/assets/94e51511-fe3b-4afa-8e80-66d83390ba05)
 
 
-![AfterDeleteMenu](https://github.com/user-attachments/assets/f558020f-f696-4112-88f9-89a61880bca0)
+
 
 
 **Add Pesanan**
@@ -62,7 +67,7 @@ Saya Firda Ridzki Utami dengan Nim 2401626 mengerjakan TP7 dalam praktikum mata 
 <img width="1894" height="929" alt="BeforeDeleteKaryawan" src="https://github.com/user-attachments/assets/9738c922-4c89-4b8b-840f-14cae294a314" />
 
 
-<img width="1893" height="493" alt="AfterDeleteKaryawan" src="https://github.com/user-attachments/assets/8054c859-674a-47f9-8e7b-9b348da67382" />
+
 
 
 
